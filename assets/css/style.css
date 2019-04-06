@@ -23,7 +23,6 @@ body {
     border-color: #4aaaa5;
     border-style: solid;
     border-width: 0 0 6px 0;
-    /* margin: 0 auto;  */
 }
 
 .my-title h1 {
@@ -35,10 +34,6 @@ body {
     border-bottom-color: #cccccc;
     border-style: solid;
     border-width: 0 0 3px 0;
-}
-
-.my-navbar-nav {
-    margin-left: 70%;
 }
 
 .my-navbar h1 {
@@ -113,10 +108,6 @@ body {
 }
 
 @media screen and (max-width: 990px) {
-    .my-navbar-nav {
-        margin-left: 60%;
-    }
-
     .portfolio-image {
         height: 110px;
         width: 150px;
@@ -130,10 +121,6 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-    .my-navbar-nav {
-        margin-left: 40%;
-    }
-
     .portfolio-image {
         height: 90px;
         width: 120px;
@@ -151,10 +138,6 @@ body {
 }
 
 @media screen and (max-width: 576px) {
-    .my-navbar-nav {
-        margin-left: 30%;
-    }
-
     .portfolio-image {
         height: 150px;
         width: 180px;
