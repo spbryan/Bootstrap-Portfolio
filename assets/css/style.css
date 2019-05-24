@@ -94,6 +94,10 @@ body {
     padding: 0 15px;
 }
 
+.pointer {
+    cursor: pointer;
+}
+
 /* ID Selectors */
 #bio-image {
     float: left;
