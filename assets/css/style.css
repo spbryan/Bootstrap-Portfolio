@@ -53,10 +53,7 @@ body {
 }
 
 .image-banner {
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    text-align: center;
     color: white;
     background-color: #4aaaa5;
     width: 180px;
@@ -116,24 +113,12 @@ body {
         height: 110px;
         width: 150px;
     }
-
-    .image-banner {
-        left: 63.5%;
-        width: 150px;
-        padding:.75px 0;
-    }
 }
 
 @media screen and (max-width: 768px) {
     .portfolio-image {
         height: 90px;
         width: 120px;
-    }
-
-    .image-banner {
-        left: 76%;
-        width: 120px;
-        padding:.5px 0;
     }
 
     .image-container p { 
@@ -145,12 +130,6 @@ body {
     .portfolio-image {
         height: 150px;
         width: 180px;
-    }
-
-    .image-banner {
-        left: 50%;
-        width: 180px;
-        padding:3px 0;
     }
 
     .image-container p { 
