@@ -36,7 +36,12 @@ body {
     border-width: 0 0 3px 0;
 }
 
+/* .nav {
+    margin-bottom: 0;
+} */
+
 .my-navbar h1 {
+    /* float: left; */
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #4aaaa5;
     color: #ffffff;
